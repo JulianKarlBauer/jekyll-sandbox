@@ -1,6 +1,10 @@
-# Welcome to GitHub Pages
+# Solutions
 
-[TOC]
+[Exercise 1](solutions/ex1)
+[Exercise 2](solutions/ex2)
+
+
+# Welcome to GitHub Pages
 
 Include invalid Markdown: (*Invalid**Here** and we are done)
 
