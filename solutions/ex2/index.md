@@ -1,5 +1,5 @@
 ---
-title: When exercise two looks awesome
+heretitle: When exercise two looks awesome
 ---
 
 # Exercise 2
@@ -10,4 +10,4 @@ Some globals
 {{ site.omglobal }}
 
 Some locals
-{{ site.title }}
+{{ site.heretitle }}
