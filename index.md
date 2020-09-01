@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
+
+[TOC]
+
+Include invalid Markdown: (*Invalid**Here** and we are done)
 
 You can use the [editor on GitHub](https://github.com/unode/jekyll-sandbox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
